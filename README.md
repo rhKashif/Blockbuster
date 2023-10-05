@@ -14,7 +14,7 @@ Welcome to the Blockbuster Video Rental System README! This project is an object
 
 ## Project Overview
 
-In this project, we've created a rental system for Blockbuster video, based on the following specifications:
+In this project, I've created a rental system for Blockbuster video, based on the following specifications:
 
 - Videos have attributes like title, year of release, runtime, and rental price.
 - Blockbuster stores stock multiple videos for rental.
@@ -38,7 +38,7 @@ The provided script `blockbuster.py` demonstrates how to use the Blockbuster Vid
 
 ## Testing
 
-We have a comprehensive test suite to ensure the functionality and reliability of the Blockbuster Video Rental System. We use [pytest](https://pytest.org/) as our testing framework.
+I have a comprehensive test suite to ensure the functionality and reliability of the Blockbuster Video Rental System. I have used [pytest](https://pytest.org/) as my testing framework.
 
 To run the tests locally, follow these steps:
 
@@ -54,6 +54,6 @@ pytest test_blockbuster_trainee.py
 
 ## Contributing
 
-We welcome contributions to this project. Feel free to open issues, suggest improvements, or submit pull requests. Please follow best practices and contribute in a constructive manner.
+I welcome contributions to this project. Feel free to open issues, suggest improvements, or submit pull requests. Please follow best practices and contribute in a constructive manner.
 
 
